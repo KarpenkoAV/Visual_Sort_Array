@@ -1,0 +1,9 @@
+D:\C#  Курсы\My_Project\Sort_mass\Sort_mass\bin\Debug\Sort_mass.exe
+D:\C#  Курсы\My_Project\Sort_mass\Sort_mass\bin\Debug\Sort_mass.pdb
+D:\C#  Курсы\My_Project\Sort_mass\Sort_mass\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\C#  Курсы\My_Project\Sort_mass\Sort_mass\obj\x86\Debug\Sort_mass.Form1.resources
+D:\C#  Курсы\My_Project\Sort_mass\Sort_mass\obj\x86\Debug\Sort_mass.Properties.Resources.resources
+D:\C#  Курсы\My_Project\Sort_mass\Sort_mass\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\C#  Курсы\My_Project\Sort_mass\Sort_mass\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\C#  Курсы\My_Project\Sort_mass\Sort_mass\obj\x86\Debug\Sort_mass.exe
+D:\C#  Курсы\My_Project\Sort_mass\Sort_mass\obj\x86\Debug\Sort_mass.pdb
